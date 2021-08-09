@@ -1,0 +1,40 @@
+.page-header-wrp {
+  display: flex;
+  background: #222222;
+  justify-content: space-between;
+  height: 75px;
+  align-items: center;
+}
+
+.page-header-logo {
+  padding-left: 231px;
+}
+.cart-btn {
+  background: #222222;
+  padding-right: 240px;
+}
+.account-btn {
+  background: #222222;
+  align-items: center;
+}
+.page-header-banner {
+  background: #f1e4e6;
+  background-image: url(image/man.svg);
+  background-repeat: no-repeat;
+  padding: 290px 331px 381px 892px;
+}
+.page-header-banner-title {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 58px;
+  color: #222222;
+}
+.page-header-banner-subtitle_1 {
+  color: #f16d7f;
+}
+.categories-item-top {
+  display: flex;
+  justify-content: space-around;
+}
